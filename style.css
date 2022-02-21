@@ -970,6 +970,9 @@ top: 85vw;
 .wrapper .github .tooltip:before{
   background: #333;
 }
+.wrapper .youtube{
+  background-color: black;
+}
 .wrapper .youtube span,
 .wrapper .youtube .tooltip,
 .wrapper .youtube .tooltip:before{
